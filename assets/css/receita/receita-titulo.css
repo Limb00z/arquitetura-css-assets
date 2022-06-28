@@ -1,0 +1,9 @@
+.receita__titulo{
+    font-size: 1.4375rem;
+}
+
+.gr{ /*titulo Pimentões à Juliana estava descentralizando o butao de ver receita, tive que diminuir a fonta, dei o nome de classe, GR, sem objetivo claro, apenas pra simbolizar*/
+    
+    font-size: 1.3rem;
+    margin-left: -10px;
+}
