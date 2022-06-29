@@ -1,5 +1,15 @@
 .banner__imagem{
-    
-    height: calc(100vh - 75px);
     width: 100%;
+}
+
+@media screen and (min-width:0) {
+    .banner__imagem{
+        height: calc(100vh - 51px);
+    }
+}
+
+@media screend and (min-width: 768px){
+    .banner__imagem{
+        height: calc(100vh - 72px);
+    }
 }
